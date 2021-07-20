@@ -1,0 +1,14 @@
+{
+  "name": "serialport-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Mike-Dax/serialport-test.git",
+  "author": "Michael Orenstein <michael@whiteshadows.me>",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "^9.2.0"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
